@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: app-back
-        image: susguzman/full-back:0.1.0
+        image: vitamatias/full-back:0.1.0
         env:
         - name: SERVER_PORT
           value: "8500"
